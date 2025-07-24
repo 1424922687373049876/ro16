@@ -20,3 +20,4 @@ Any executors with the following functions will **PROBABLY** work
 - HttpGet/Loadstring
 - WriteFile
 - LoadFile
+- GetCustomAsset
