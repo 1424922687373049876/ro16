@@ -8,11 +8,9 @@ This project helps make your game exactly replicate the 2016L era with the help 
 ## Where can I find the script?
 You can find the script [here](https://github.com/repoTestn/Roblox16Feel/releases/tag/ro16).
 ## Known Issues
-Games with the LegacyChatSystem is prone to duplicating messages
-
 The shift-lock cursor doesnt display
 
-Playerlist doesn't show the friend icons upon first execution
+Playerlist doesn't show the appropriate icons upon first execution
 ## What can this script run on?
 Any executors with the following functions will **PROBABLY** work
 - GetHUI
