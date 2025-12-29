@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/84a88790-dedf-4ed9-80d5-0a97dc2fa65d)
 ![image](https://github.com/user-attachments/assets/e4f34511-5525-43d2-b8dc-4b64a0930f3c)
 ## What does this do?
-This project helps make your game exactly replicate the 2016L era with the help of a rbxm file and [rbxm-suite](https://github.com/richie0866/rbxm-suite#readme).
+This project loads an rbxm file using [rbxm-suite](https://github.com/richie0866/rbxm-suite#readme) that contains the corescripts needed to implement the 2016L UI into your game.
 ## Where can I find the script?
 You can find the script [here](https://github.com/repoTestn/Roblox16Feel/releases/tag/ro16).
 ## Known Issues
